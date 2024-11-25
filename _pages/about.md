@@ -16,4 +16,5 @@ Prior to joining Apple, she worked on large scale recommendation systems and app
 
 News
 ======
-* November 14, 2024 Our paper Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs won an Outstanding Paper award at EMNLP’2024!
+
+- __November 14, 2024__ Our paper [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc) won an Outstanding Paper award at EMNLP'2024!
