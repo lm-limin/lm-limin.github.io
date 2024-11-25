@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-Min Li is currently a Senior machine learning engineer and research scientist at Apple focusing on  building knowledge services to improve Apple user experiences. 
+[Min Li](https://lm-limin.github.io/files/limin_cv_2024.pdf)  is currently a Senior machine learning engineer and research scientist at Apple focusing on  building knowledge services to improve Apple user experiences. 
 
 Prior to joining Apple, she worked on large scale recommendation systems and applied ML to improve operational efficiency of data centers at JD.com for four years. Before that, She spent another four years with IBM research concentrating on entity resolution, performance optimization, and benchmarking of big data analytic platforms. She received her Ph.D in Computer Science at Virginia Tech in 2014.
 
