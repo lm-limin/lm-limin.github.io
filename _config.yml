@@ -21,7 +21,7 @@ repository               : "lm-limin/lm-limin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Min_LI_c1.jpg"
+  avatar           : "min_li_p1.jpg"
   name             : "Min Li"
   pronouns         : "she/her"
   bio              : "Senior Machine Learning Scientist at Apple | Ex IBM Research, JD.com"
